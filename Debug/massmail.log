@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (mail.vcxproj, mailing.vcxproj, mass mail.vcxproj, mass mailing.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  mailing.cpp
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118,53): error C2597: illegal reference to non-static member 'setup::youradd'
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118): message : see declaration of 'setup::youradd'
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118,53): error C3867: 'setup::youradd': non-standard syntax; use '&' to create a pointer to member
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118,53): error C2109: subscript requires array or pointer type
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118,82): error C2597: illegal reference to non-static member 'setup::your_attachments'
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118): message : see declaration of 'setup::your_attachments'
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118,82): error C3867: 'setup::your_attachments': non-standard syntax; use '&' to create a pointer to member
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118,82): error C2109: subscript requires array or pointer type
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118,104): error C2597: illegal reference to non-static member 'setup::your_pass'
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118): message : see declaration of 'setup::your_pass'
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118,104): error C3867: 'setup::your_pass': non-standard syntax; use '&' to create a pointer to member
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118,104): error C2109: subscript requires array or pointer type
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118,128): error C2597: illegal reference to non-static member 'setup::your_body'
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118): message : see declaration of 'setup::your_body'
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118,128): error C3867: 'setup::your_body': non-standard syntax; use '&' to create a pointer to member
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118,128): error C2109: subscript requires array or pointer type
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118,154): error C2597: illegal reference to non-static member 'setup::your_subject'
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118): message : see declaration of 'setup::your_subject'
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118,154): error C3867: 'setup::your_subject': non-standard syntax; use '&' to create a pointer to member
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118,154): error C2109: subscript requires array or pointer type
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(118,155): error C2660: 'action::mailSender': function does not take 1 arguments
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(48,10): message : see declaration of 'action::mailSender'

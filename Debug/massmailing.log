@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (final.vcxproj, fullfinal.vcxproj, mail.vcxproj, mailing.vcxproj, mass mail.vcxproj, mass mailing.vcxproj, mass.vcxproj, massmail.vcxproj, this.vcxproj, woomail.vcxproj, yo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  mailing.cpp
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(54,3): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(216,11): warning C4101: 'ch': unreferenced local variable
+  massmailing.vcxproj -> C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\Debug\massmailing.exe

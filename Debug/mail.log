@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (mailing.vcxproj, mass mailing.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  mailing.cpp
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(56,27): error C2065: 'youradd': undeclared identifier
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(60,30): error C2065: 'your_attachment': undeclared identifier
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(61,27): error C2065: 'your_body': undeclared identifier
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(66,26): error C2065: 'your_subject': undeclared identifier
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(70,27): error C2065: 'youradd': undeclared identifier
+C:\Users\BIKRANT PANJIYAR\Desktop\C++ project\mailing\mailing.cpp(71,27): error C2065: 'your_pass': undeclared identifier
