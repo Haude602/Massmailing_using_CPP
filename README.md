@@ -16,6 +16,6 @@ Run ther program and provide necessary informations about your email, passwords 
 Note:If you are sending html mail instead of plain text,remember that body.html in the project folder is the html body you will be sending. Either open it with notepad 
 and paste your own html code  and save it or simply delete it and paste your own html file in the folder and name it as "body" with extension html(i.e.body.html). And the attachments you are going to send must be in project folder i.e. everything must be in "Massmailing_using_CPP" including body.html. While entering the name of attachments use name with extension. For example: if abc is text file then type text.txt i.e. name with extension must be typed in console.
 
-To send mails to many recipients at once, select all the email addresses from google sheet at once and paste it in "RecipientList.txt available in project folder and save it.
+To send mails to many recipients at once, select all the email addresses from google sheet at once and paste it in "RecipientList.txt" available in project folder and save it.
 And while selecting the recipients in console choose "from file".
 You can also enter addreses one by one in console by selecting "from console" or write or delete addreses in recipients.txt text file through console a well.
