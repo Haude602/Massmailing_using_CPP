@@ -14,7 +14,7 @@
 
 ## Run ther program and provide necessary informations about your email, passwords and recipients email addresses and other contents of email body.
 
-![SMTP Behind It](SMTP.jpg)
+![SMTP Behind It](SMTP.JPG)
 
 Note:If you are sending html mail instead of plain text,remember that body.html in the project folder is the html body you will be sending. Either open it with notepad 
 and paste your own html code  and save it or simply delete it and paste your own html file in the folder and name it as "body" with extension html(i.e.body.html). And the attachments you are going to send must be in project folder i.e. everything must be in "Massmailing_using_CPP" including body.html. While entering the name of attachments use name with extension. For example: if abc is text file then type text.txt i.e. name with extension must be typed in console.
