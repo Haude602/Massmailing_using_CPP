@@ -4,7 +4,7 @@
 
 # All you have to do is
 * Download or clone this repo on your desktop or anywhere in disk and then download,install and open visual studio 2019
-* Click on "Open a local folder" and  select cloned folder(Massmailing_using_CPP)
+* Click on `Open a local folder` and  select cloned folder(Massmailing_using_CPP)
 * Click on "File" menu, select "New" and click on "Project from existing code"
 * Then a new window will be prompted click on "Next", select the folder "Massmsilin_using_cpp" in "project location" and name it "abc"(anything) in "Project name"
 * Click on "next", select "Console application project" in "Project type", click on "next","next" and finally "finish" leaving everything as it is
