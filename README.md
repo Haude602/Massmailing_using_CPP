@@ -1,6 +1,6 @@
 # Massmailing_using-_CPP
 
-### This repo contains a simple CPP project which runs on visual studio version 2019 and is used for mass mailing with more features than any other massmailing web services to  ### send beautiful mails that can be either html mail or plain text mail with attachments
+### This repo contains a simple CPP project which runs on visual studio version 2019 and is used for mass mailing with more features than any other massmailing web services to send beautiful mails that can be either html mail or plain text mail with attachments
 
 # All you have to do is
 * Download or clone this repo on your desktop or anywhere in disk and then download,install and open visual studio 2019
@@ -20,3 +20,4 @@ and paste your own html code  and save it or simply delete it and paste your own
 ## To send mails to many recipients at once, select all the email addresses from google sheet at once and paste it in "RecipientList.txt" available in project folder and save it.
 ### And while selecting the recipients in console choose "from file".
 #### You can also enter addreses one by one in console by selecting "from console" or write or delete addreses in recipients.txt text file through console a well.
+## [Project documentation](https://drive.google.com/file/d/1dvX7T9Eyu5Y3x6eKJ802dMMlWOXToesS/view?usp=sharing)
