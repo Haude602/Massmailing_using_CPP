@@ -1,9 +1,9 @@
 # Massmailing_using-_CPP
 
 ## This repo contains a simple CPP project which runs on visual studio version 2019 and is used for mass mailing with more features than any other massmailing web services 
-to send beautiful mails that can be either html mail or plain text mail with attachments
+## to send beautiful mails that can be either html mail or plain text mail with attachments
 
-All you have to do is
+# All you have to do is
 * Download or clone this repo on your desktop or anywhere in disk and then download,install and open visual studio 2019
 * Click on "Open a local folder" and  select cloned folder(Massmailing_using_CPP)
 * Click on "File" menu, select "New" and click on "Project from existing code"
