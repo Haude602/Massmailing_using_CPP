@@ -8,7 +8,7 @@
 #include "C:\\Users\\BIKRANT PANJIYAR\\Desktop\\Github\\vcpckg\\vcpkg\\downloads\\tools\\perl\\5.30.0.1\\c\\lib\\gcc\\i686-w64-mingw32\\8.3.0\\include\\stdfix.h"//SEARCH WHERE IS STDFIX.H AND COPY THE PATH HERE
 
 #include <tchar.h>
-//#include <Windows.h>
+#include <Windows.h>
 #include <iostream>
 #include <conio.h>  // for _getch() and _getche() // Here getche()
 #include <cstdlib>   // for system("cls");
