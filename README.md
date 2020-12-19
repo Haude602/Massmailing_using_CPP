@@ -23,3 +23,4 @@ and paste your own html code  and save it or simply delete it and paste your own
 ### And while selecting the recipients in console choose "from file".
 #### You can also enter addreses one by one in console by selecting "from console" or write or delete addreses in recipients.txt text file through console a well.
 ## [Project documentation](https://drive.google.com/file/d/1dvX7T9Eyu5Y3x6eKJ802dMMlWOXToesS/view?usp=sharing)
+##[Reference](https://www.emailarchitect.net/easendmail/kb/vc.aspx?cat=0)
