@@ -1,4 +1,5 @@
 # Massmailing_using-_CPP
+Members: Vikrant Panjiyar, Jeevan Koiri and Bhupendra Chaulagain
 
 ### This repo contains a simple CPP project which runs on visual studio version 2019 and is used for mass mailing with more features than any other massmailing web services to send beautiful mails that can be either html mail or plain text mail with attachments
 
